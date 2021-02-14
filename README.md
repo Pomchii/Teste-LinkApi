@@ -13,7 +13,7 @@
 
 
 
-#INSTRUÇÕES
+## INSTRUÇÕES
 
 ● Desenvolva e versione o projeto usando git
 
@@ -23,7 +23,7 @@
 
 
 
-#O QUE SERÁ AVALIADO
+## O QUE SERÁ AVALIADO
 
 ● Quantidade de requisitos realizados
 
