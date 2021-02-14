@@ -10,30 +10,6 @@
 
 ● Criar endpoint para trazer os dados consolidados da collection do MongoDB.
 
-
-
-## INSTRUÇÕES
-
-● Desenvolva e versione o projeto usando git
-
-● Utilize o GitHub para hospedar o código
-
-● Enviar o link do repositório para people@linkapi.com.br
-
-
-
-## O QUE SERÁ AVALIADO
-
-● Quantidade de requisitos realizados
-
-● Desacoplamento de código
-
-● Legibilidade
-
-● Boas práticas de desenvolvimento de API RESTful
-
-● Performance 
-
 ## Definições do Projeto
 Clone o projeto com o comando: `git clone`.
 Executar `npm install` para instalar as dependências do projeto.
