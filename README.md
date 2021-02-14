@@ -1,5 +1,4 @@
 ## TESTE_LINKAPI
-## REQUISITOS
 
 ● Criar contas testes nas plataformas Pipedrive e Bling.
 
