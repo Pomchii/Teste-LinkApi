@@ -14,7 +14,7 @@
 Clone o projeto com o comando: `git clone`.
 Executar `npm install` para instalar as dependências do projeto.
 
-O arquivo `.env` contem as informações para a conexão e para definição do PORT.
+O arquivo `.env` contem as informações para a conexão das plataformas e para definição do PORT.
 
 `npm start` inicia a aplicação e `npm run dev` executa a aplicação em servidor local teste com o nodemon.
 
